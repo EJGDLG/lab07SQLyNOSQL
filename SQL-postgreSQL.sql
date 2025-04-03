@@ -4,7 +4,7 @@ CREATE TABLE envejecimiento (
     capital VARCHAR(100),
     continente VARCHAR(50),
     region VARCHAR(100),
-    poblacion DECIMAL(15,2), -- Permite decimales temporalmente
+    poblacion DECIMAL(15,2), 
     tasa_de_envejecimiento DECIMAL(5,2)
 );
 
